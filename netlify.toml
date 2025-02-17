@@ -4,6 +4,6 @@
 
 [[redirects]]
   from = "/qr"
-  to = "https://www.google.com"
+  to = "/"
   status = 301
   force = true
